@@ -16,6 +16,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)nbsp;
 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)&nbsp;
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-222222?style=flat&logo=Pop!_OS&logoColor=48B9C7)&nbsp;
