@@ -14,13 +14,14 @@
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-222222?style=flat&logo=styled-components)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=flat&logo=Figma)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=Docker)&nbsp;
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)nbsp;
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)&nbsp;
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-222222?style=flat&logo=Pop!_OS&logoColor=48B9C7)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux)&nbsp;
+
 ![MAC OS](https://img.shields.io/badge/mac%20os-222222?style=flat&logo=apple&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React)&nbsp;
