@@ -31,7 +31,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benevora&layout=compact&theme=vision-friendly-dark"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benevora&layout=compact&theme=vision-friendly-dark" most languages/>
 </P>
 <br><br>
 
